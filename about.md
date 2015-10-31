@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Disclaimer
 
-All tutorials within this blog are performed in legal environment or lab. Any information provided on this website should only be used for legal purposes. Use the information provided at  your own risk. 
+All tutorials within this blog are performed in a legal environment or lab. Any information provided on this website should only be used for legal purposes in an environment you own or have rights to. Use the information provided at  your own risk. 
 
 ### More Information
 
