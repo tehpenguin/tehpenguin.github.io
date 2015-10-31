@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+All tutorials within this blog are performed in legal environment or lab. Any information provided on this website should only be used for legal purposes. Use the information provided at  your own risk. 
 
 ### More Information
 
