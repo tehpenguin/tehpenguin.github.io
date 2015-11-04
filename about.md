@@ -7,8 +7,8 @@ All tutorials within this blog are performed in a legal environment or lab. Any 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thenightm0de@gmail.com](mailto:email@domain.com)
