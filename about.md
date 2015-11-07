@@ -7,7 +7,7 @@ All tutorials within this blog are performed in a legal environment or lab. Any 
 
 ### More Information
 
-The tutorials provided use virtual machines that are designed to be hacked in order to gain hands on experience. They can be found at www.vulnhub.com
+The tutorials provided use virtual machines that are designed to be hacked in order to gain hands on experience. They can be found at <a href="www.vulnhub.com">www.vulnhub.com</a>
 
 ### Contact me
 
