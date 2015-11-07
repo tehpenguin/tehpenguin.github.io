@@ -1,7 +1,19 @@
 ---
-layout: post
-title: test post
+layout: default
 ---
 
-Testing the first blog post. 
-![testimage](images/Kioptrix1.1.1.png)
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ Testing the first blog post. 
+![testimage](images/Kioptrix1.1.1.png) }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
+
