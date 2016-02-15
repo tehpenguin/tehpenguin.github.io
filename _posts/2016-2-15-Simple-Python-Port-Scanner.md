@@ -1,3 +1,6 @@
+layout: post
+title: Kioptrix Level 1.1 Walkthrough
+
 #!/usr/bin/python 
 import socket 
 ip = raw_input("Enter the IP address: ")
