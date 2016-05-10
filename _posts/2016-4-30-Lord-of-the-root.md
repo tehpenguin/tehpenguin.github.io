@@ -12,3 +12,7 @@ Stay tuned for content update.....
 ![Image description](/images/lordknock.png)
 
 ![Image description](/images/lordnmap2.1.png)
+
+![Image description](/images/lordnmap2.2.png)
+
+![Image description](/images/lord1337.png)
