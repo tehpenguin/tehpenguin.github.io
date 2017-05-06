@@ -29,3 +29,5 @@ Stay tuned for content update.....
 ![Image description](/images/lordpostvuln.png)
 
 ![Image description](/images/lordpasswords.png)
+
+![Image description](/images/lordsshroot.png)
