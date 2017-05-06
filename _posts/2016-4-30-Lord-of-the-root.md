@@ -23,3 +23,7 @@ Stay tuned for content update.....
 ![Image description](/images/lordbase64.png)
 
 ![Image description](/images/lordlogin.png)
+
+![Image description](/images/lordsqlmap.png)
+
+![Image description](/images/lordpasswords.png)
