@@ -26,4 +26,6 @@ Stay tuned for content update.....
 
 ![Image description](/images/lordsqlmap.png)
 
+![Image description](/images/lordpostvuln.png)
+
 ![Image description](/images/lordpasswords.png)
