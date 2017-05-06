@@ -19,3 +19,7 @@ Stay tuned for content update.....
 ![Image description](/images/lord1337.png)
 
 ![Image description](/images/lord404.png)
+
+![Image description](/images/lordbase64.png)
+
+![Image description](/images/lordlogin.png)
