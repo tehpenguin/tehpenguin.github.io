@@ -30,4 +30,4 @@ Stay tuned for content update.....
 
 ![Image description](/images/lordpasswords.png)
 
-![Image description](/images/lordsshroot.png)
+![Image description](/images/lordsshroot2.png)
