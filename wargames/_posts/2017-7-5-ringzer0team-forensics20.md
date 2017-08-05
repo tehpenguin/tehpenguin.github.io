@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	ringzer0team/Forensics/I made a dd of Agent Smith usb key
-permalink: /wargames/
+category: wargames
 ---
 
 I'm sure it contain the matrix password! Can you find it? 
