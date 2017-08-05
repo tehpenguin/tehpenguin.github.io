@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lord of the Root Walkthrough
+category: vm
 ---
 Stay tuned for content update.....
 
