@@ -6,7 +6,7 @@ category: ctf
 
 
 
-<b>Category: FOrensics</b>
+<b>Category: Forensics</b>
 
 Special Agent User
 
