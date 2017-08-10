@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pico CTF 2017 Speacial Agent User
+title: Pico CTF 2017 Special Agent User
 category: ctf
 ---
 
