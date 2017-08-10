@@ -11,4 +11,4 @@ It looks like someone logged in with their password earlier. Where would log in 
 If you think you found the flag, but it doesn't work, consider that the data may be encrypted.
 
 ![Image description](/images/digitalcamouflag.png)
-![Image description](/images/digitalcamouflag2.png)
+![Image description](/images/digitalcamoulflag2.png)
