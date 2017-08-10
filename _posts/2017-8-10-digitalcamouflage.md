@@ -3,7 +3,7 @@ layout: post
 title: Pico CTF 2017 Digital Camouflage
 category: ctf
 ---
-Digital Camouflage
+<b>Digital Camouflage</b>
 
 We need to gain access to some routers. Let's try and see if we can find the password in the captured network data: data.pcap.
 HINTS
