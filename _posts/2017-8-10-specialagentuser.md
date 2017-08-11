@@ -14,7 +14,7 @@ Special Agent User
 HINTS
 Where can we find information on the browser in networking data? Maybe try reading up on user-agent strings.</i>
 
-I downloaded the .pcap file and began to look for http packets with GET or POST request within the HTML packets. The first few packets I came accross did not have any User-Agents listed. Once I read through the contents of packet 80, I found the information I looking for: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0. This challenge is looking specifically for the browser with 3 levels of subversion for the browser version, which is Firefox/25.0.
+I downloaded the .pcap file and began to look for HTTP packets with GET or POST request within the HTTP packets. The first few packets I came accross did not have any User-Agents listed. Once I read through the contents of packet 80, I found the information I looking for: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0. This challenge is looking specifically for the browser with 3 levels of subversion for the browser version, which is Firefox/25.0.
 
 
 ![Image description](/images/specialuseragent.png)
