@@ -12,4 +12,5 @@ Substitute
 HINTS
 There are tools that make this easy this.</i>
 
+![Image description](/images/substitute.png)
 
