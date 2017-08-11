@@ -3,7 +3,7 @@ layout: post
 title: Pico CTF 2017 Substitute 
 category: ctf
 ---
-<b>Category:Cryptography</b>
+<b>Category: Cryptography</b>
 
 
 Substitute
