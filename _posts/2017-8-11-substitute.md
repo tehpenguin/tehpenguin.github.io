@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Pico CTF 2017 Substitute 
+category: ctf
+---
 
 
 
