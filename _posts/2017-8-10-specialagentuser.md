@@ -16,4 +16,4 @@ Where can we find information on the browser in networking data? Maybe try readi
 
 
 
-![Image description](/images/specialagentuser.png)
+![Image description](/images/specialuseragent.png)
