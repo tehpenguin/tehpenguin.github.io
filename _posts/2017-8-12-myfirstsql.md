@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First SQL
-category:ctf
+title: Pico CTF 2017 My First SQL
+category: ctf
 ---
 <b>Category: Web Exploitation
   
