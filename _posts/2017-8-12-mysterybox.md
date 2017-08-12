@@ -11,3 +11,11 @@ You've found a mystery machine with a sticky note attached to it! Oh, there's al
 HINTS
 It really gets your gears Turing.
 I hear there's something Naval about it.</i>
+
+Sticky  Note:
+
+Geheimnis: PXQQ TAMY YDBC WGYE LVN
+Umkehrwalze: B
+Grundstellung: PPP
+Ringstellung: LOG
+Steckerbrett: G-L, H-F
