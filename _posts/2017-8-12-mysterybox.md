@@ -13,7 +13,7 @@ It really gets your gears Turing.
 I hear there's something Naval about it.</i>
 
 
-![Image description](/images/mysterbox.png)
+![Image description](/images/MysteryBox.png)
 
 Sticky  Note:
 
