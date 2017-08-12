@@ -1,8 +1,8 @@
-----
+---
 layout: post
-title: My First SQL Injection
-category: ctf
-----
+title: My First SQL
+category:ctf
+---
 <b>Category: Web Exploitation
   
 My First SQL
