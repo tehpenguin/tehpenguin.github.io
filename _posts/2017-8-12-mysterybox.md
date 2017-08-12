@@ -12,6 +12,9 @@ HINTS
 It really gets your gears Turing.
 I hear there's something Naval about it.</i>
 
+
+![Image description](/images/mysterbox.png)
+
 Sticky  Note:
 
 Geheimnis: PXQQ TAMY YDBC WGYE LVN
