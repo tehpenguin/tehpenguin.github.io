@@ -22,3 +22,6 @@ Umkehrwalze: B
 Grundstellung: PPP
 Ringstellung: LOG
 Steckerbrett: G-L, H-F
+
+
+![Image description](/images/MysteryBox2.png)
