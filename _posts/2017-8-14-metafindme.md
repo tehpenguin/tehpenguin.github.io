@@ -11,9 +11,17 @@ Meta Find Me
 HINTS
 How can images store location data? Perhaps search for GPS info on photos</i>
 
-![Image description](/images/metafindme3.png)
+In this challenge we are given an image and we need to find the flag within the image. The first thing we look at is the meta data or EXIF data in the image. We can do that with the command exif image.jpg
+
+![Image description](/images/metafindme3.jpg)
+
+Exif shows some gps information that will need for our flag. 
 
 ![Image description](/images/metafindme1.png)
 
+We are still missing some metadata so I opened up the file with a hexeditor and was able to find the other portion of the flag. 
+
 ![Image description](/images/metafindme2.png)
+
+Combining our two parts of the flag together we get:
 flag_2_meta_4_me_88_4_06c3
