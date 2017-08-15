@@ -12,3 +12,5 @@ Update (text only) 16:16 EST 1 Apr Running python 2 (same version as on the serv
 HINTS
 How random can computers be?</i>
 
+![Image description](/images/sorandompy.png)
+
