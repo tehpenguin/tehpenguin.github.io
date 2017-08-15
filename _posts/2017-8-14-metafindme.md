@@ -17,11 +17,11 @@ In this challenge we are given an image and we need to find the flag within the 
 
 Exif shows some gps information that will need for our flag. 
 
-![Image description](/images/metafindme1.png)
+![Image description](/images/metafindme2.png)
 
 We are still missing some metadata so I opened up the file with a hexeditor and was able to find the other portion of the flag. 
 
-![Image description](/images/metafindme2.png)
+![Image description](/images/metafindme1.png)
 
 Combining our two parts of the flag together we get:
 flag_2_meta_4_me_88_4_06c3
