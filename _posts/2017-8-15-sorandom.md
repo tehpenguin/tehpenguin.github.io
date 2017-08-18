@@ -14,3 +14,5 @@ How random can computers be?</i>
 
 ![Image description](/images/sorandompy.png)
 
+![Image description](/images/sorandompy2.png)
+![Image description](/images/sorandompy3.png)
