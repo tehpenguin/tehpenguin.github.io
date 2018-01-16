@@ -11,4 +11,4 @@ The tutorials provided use virtual machines that are designed to be hacked in or
 
 ### Contact me
 
-[thenightm0de@gmail.com](mailto:email@domain.com)
+[nightm0de@protonmail.com](mailto:email@domain.com)
