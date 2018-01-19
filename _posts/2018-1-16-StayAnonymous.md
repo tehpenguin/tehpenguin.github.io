@@ -46,7 +46,7 @@ Firefox Focus is a web browser made for android and IOS that blocks ads, deletes
 
 <a href="https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337?mt=8">https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337?mt=8</a> IOS
 
-Duck Duck Go is a search engine similar to google, however it does not track your searches or personal information.  
+Duck Duck Go is a search engine similar to google, however it does not track your searches or store any personal information.  
 
 <a href="https://duckduckgo.com/">https://duckduckgo.com/</a>
 
