@@ -41,7 +41,9 @@ VPN's can be used on your home computer, tablets and phones. While there are sev
 <i> Easy Step 4: Firefox Focus and Duck Duck Go</i>
 
 Firefox Focus is a web browser made for android and IOS that blocks ads, deletes passwords and history, and prevents tracking. Currently there is not a desktop version but private browsing can be done by using firefox in a private window. 
+
 <a href="https://play.google.com/store/apps/details?id=org.mozilla.focus">https://play.google.com/store/apps/details?id=org.mozilla.focus</a> Google App store
+
 <a href="https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337?mt=8">https://itunes.apple.com/us/app/firefox-focus-privacy-browser/id1055677337?mt=8</a> IOS
 
 Duck Duck Go is a search engine similar to google, however it does not track your searches or personal information.  
