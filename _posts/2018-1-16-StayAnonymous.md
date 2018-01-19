@@ -12,6 +12,7 @@ There are several steps you can take to reduce your digital fingerprint and the 
 This tier is composed of relatively easy things that you can do to increase your privacy without making you change your habits. Remember that any steps you take, no matter how small, can help reduce the amount of information that you share. 
 
 <i> Easy Step 1: Browser Add-ons</i>
+
 There are several browser add-ons you can use to help reduce the information you share. Add-ons such as Privacy Badger fromt he EFF, HTTPS everwhere, and Ad-Block are all great ways to start. Privacy Badger automatically detects what information websites are trying to share and blocks it. HTTPS everhwere makes sure that you are always using a secure version of a website if it exists. Ad-Block helps stop advertisements which can be used to collect your information. 
 
 <a href="https://www.eff.org/privacybadger">https://www.eff.org/privacybadger</a>
@@ -19,4 +20,8 @@ There are several browser add-ons you can use to help reduce the information you
 <a href="https://www.eff.org/https-everywhere">https://www.eff.org/https-everywhere</a>
 
 <a href="https://adblockplus.org/">https://adblockplus.org/</a>
+
+<i> Easy Step 2: Two-Factor Authentication</i>
+
+Two-factor authentication is a service that helps prevent someone from logging into your account from an unkown location. This is done by sending a code to your email or text to your phone that is required to log into your account. This means that the attacker has to have your phone or email in order to gain access. 
 
