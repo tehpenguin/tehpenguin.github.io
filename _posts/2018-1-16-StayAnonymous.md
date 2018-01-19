@@ -26,4 +26,9 @@ There are several browser add-ons you can use to help reduce the information you
 Two-factor authentication is a service that helps prevent someone from logging into your account from an unkown location. This is done by sending a code to your email or text to your phone that is required to log into your account. This means that the attacker has to have your phone or email in order to gain access. 
 ![Image description](/images/2factor.png)
 
+<i> Easy Step 3: Use a Virtual Private Network</i>
+
+A virtual private network, or VPN for short, is either a paid or free service that encrypts all of your internet traffic. It works by creating an encrypted tunnel to a server. Your traffic then travels from the server to the internet. This creates a barrier between you and the rest of the web. 
+
+
 
