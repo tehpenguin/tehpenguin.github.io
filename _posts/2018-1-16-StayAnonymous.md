@@ -32,7 +32,7 @@ A virtual private network, or VPN for short, is either a paid or free service th
 
 ![Image description](/images/vpnpic.png)
 
-VPN's can be used on your home computer, tablets and phones. While there are several free vpn apps available, keep in mind that there is probably a catch. Some free vpn's can still sell your information to make up the cost of the service. I reccomend a paid service such as Nordvpn or Private internet access. They both offer easy to follow instructions to get started and cost les than 4$ a month. 
+VPN's can be used on your home computer, tablets and phones. While there are several free vpn apps available, keep in mind that there is probably a catch. Some free vpn's can still sell your information to make up the cost of the service. I reccomend a paid service such as Nordvpn or Private internet access. Paid VPN's have the most privacy and do not keep any logs of users. They can even be paid for anonymously. They both offer easy to follow instructions to get started and cost less than 4$ a month. 
 
 <a href="https://nordvpn.com/">https://nordvpn.com/</a>
 
