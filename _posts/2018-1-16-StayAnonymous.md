@@ -24,4 +24,6 @@ There are several browser add-ons you can use to help reduce the information you
 <i> Easy Step 2: Two-Factor Authentication</i>
 
 Two-factor authentication is a service that helps prevent someone from logging into your account from an unkown location. This is done by sending a code to your email or text to your phone that is required to log into your account. This means that the attacker has to have your phone or email in order to gain access. 
+![Image description](/images/2factor.png)
+
 
