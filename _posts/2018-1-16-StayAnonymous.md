@@ -30,5 +30,6 @@ Two-factor authentication is a service that helps prevent someone from logging i
 
 A virtual private network, or VPN for short, is either a paid or free service that encrypts all of your internet traffic. It works by creating an encrypted tunnel to a server. Your traffic then travels from the server to the internet. This creates a barrier between you and the rest of the web. 
 
+![Image description](/images/vpnpic.png)
 
 
