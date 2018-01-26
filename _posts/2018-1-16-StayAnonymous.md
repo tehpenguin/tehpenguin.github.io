@@ -66,7 +66,20 @@ This next tier is composed of ways to further increase your privacy. The steps i
 Texting or "SMS" is a common part of communication. SMS has been around for a long time and has no encryption. Services such as Signal and iMessage use encryption to prevent your text or calls from being open to plain site. Signal is available for Andriod, iphone, and desktop. The messaging app iMessage is exclusive to Apple products.
 
 <a href="https://signal.org/">https://signal.org/</a>
+
 <a href="https://developer.apple.com/imessage/">https://developer.apple.com/imessage/</a>
+
+<b> Intermediate Step 2: Use Protonmail or your own email server</b>
+
+Changing your email can be a daunting task. Often we have used the same email address for years or even decades. Changing email providers can be very time consuming and can take several weeks to accomplish. The easiest method is to change your email address for services as they come into your old inbox. This step was placed in this category because it requires monitoring your old email address and then changing your email address for every service that you use. 
+
+There are several email services available such as gmail, yahoo, and outlook. Services such as yahoo have been involved in major security breaches, exposing email and passwords for several users. Gmail is a common email service and offers services such as two factor authentication. However, it is commonly used with third-party applications and offers no end to end encryption. Services such as Protonmail offer end to end encrypted emails or secure emails to others not using protonmail. Protonmail does this by encrypting the message and then prompting the reciever for a password to open the email. Protonmail servers are located in Switzerland. 
+
+Creating your own email server gives you the most access and control over your emails. This requires owning a physical server (even if its a raspberry pi) and can require some time to set up. However, you will know where your emails are stored and provide your own encryption. 
+
+
+
+
 
 
 
