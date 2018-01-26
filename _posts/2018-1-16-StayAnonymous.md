@@ -21,12 +21,12 @@ There are several browser add-ons you can use to help reduce the information you
 
 <a href="https://adblockplus.org/">https://adblockplus.org/</a>
 
-<i> Easy Step 2: Two-Factor Authentication</i>
+<b> Easy Step 2: Two-Factor Authentication</b>
 
 Two-factor authentication is a service that helps prevent someone from logging into your account from an unkown location. This is done by sending a code to your email or text to your phone that is required to log into your account. This means that the attacker has to have your phone or email in order to gain access. 
 ![Image description](/images/2factor.png)
 
-<i> Easy Step 3: Use a Virtual Private Network</i>
+<b> Easy Step 3: Use a Virtual Private Network</b>
 
 A virtual private network, or VPN for short, is either a paid or free service that encrypts all of your internet traffic. It works by creating an encrypted tunnel to a server. Your traffic then travels from the server to the internet. This creates a barrier between you and the rest of the web. 
 
@@ -38,7 +38,7 @@ VPN's can be used on your home computer, tablets and phones. While there are sev
 
 <a href="https://www.privateinternetaccess.com/">https://www.privateinternetaccess.com/</a>
 
-<i> Easy Step 4: Firefox Focus and Duck Duck Go</i>
+<b> Easy Step 4: Firefox Focus and Duck Duck Go</b>
 
 Firefox Focus is a web browser made for android and IOS that blocks ads, deletes passwords and history, and prevents tracking. Currently there is not a desktop version but private browsing can be done by using firefox in a private window. 
 
@@ -51,17 +51,17 @@ Duck Duck Go is a search engine similar to google, however it does not track you
 <a href="https://duckduckgo.com/">https://duckduckgo.com/</a>
 
 
-<i> Easy Step 5: Use a password manager</i>
+<b> Easy Step 5: Use a password manager</b>
 
 There are plenty of free password manager applications available such as LastPass. Strong passwords are essential to increasing your security. The same password should never be used for all applications. Lastpass creates a new strong password for each of your apps and stores them for future use. The setup can be time consuming but it will greatly increase your security. 
 
 <a href="https://www.lastpass.com/">https://www.lastpass.com/</a>
 
-<b>Tier 2: Intermediate ways to protect your privacy</b>
+<h2>Tier 2: Intermediate ways to protect your privacy</h2>
 
 This next tier is composed of ways to further increase your privacy. The steps in this category are more time consuming, may require more dedication, and require drastic changes. 
 
-<i> Intermediate Step 1: Use iMessage or Signal</i>
+<b> Intermediate Step 1: Use iMessage or Signal</b>
 
 Texting or "SMS" is a common part of communication. SMS has been around for a long time and has no encryption. Services such as Signal and iMessage use encryption to prevent your text or calls from being open to plain site. Signal is available for Andriod, iphone, and desktop. The messaging app iMessage is exclusive to Apple products.
 
