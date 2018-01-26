@@ -51,5 +51,24 @@ Duck Duck Go is a search engine similar to google, however it does not track you
 <a href="https://duckduckgo.com/">https://duckduckgo.com/</a>
 
 
+<i> Easy Step 5: Use a password manager</i>
+
+There are plenty of free password manager applications available such as LastPass. Strong passwords are essential to increasing your security. The same password should never be used for all applications. Lastpass creates a new strong password for each of your apps and stores them for future use. The setup can be time consuming but it will greatly increase your security. 
+
+<a href="https://www.lastpass.com/">https://www.lastpass.com/</a>
+
+<b>Tier 2: Intermediate ways to protect your privacy</b>
+
+This next tier is composed of ways to further increase your privacy. The steps in this category are more time consuming, may require more dedication, and require drastic changes. 
+
+<i> Intermediate Step 1: Use iMessage or Signal</i>
+
+Texting or "SMS" is a common part of communication. SMS has been around for a long time and has no encryption. Services such as Signal and iMessage use encryption to prevent your text or calls from being open to plain site. Signal is available for Andriod, iphone, and desktop. The messaging app iMessage is exclusive to Apple products.
+
+<a href="https://signal.org/">https://signal.org/</a>
+<a href="https://developer.apple.com/imessage/">https://developer.apple.com/imessage/</a>
+
+
+
 
 
