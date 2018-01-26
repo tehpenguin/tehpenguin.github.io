@@ -13,13 +13,14 @@ This tier is composed of relatively easy things that you can do to increase your
 
 <b> Easy Step 1: Browser Add-ons</b>
 
-There are several browser add-ons you can use to help reduce the information you share. Add-ons such as Privacy Badger from EFF, HTTPS everwhere, and Ad-Block are all great ways to start. Privacy Badger automatically detects what information websites are trying to share and blocks it. HTTPS everhwere makes sure that you are always using a secure version of a website if it exists. Ad-Block helps stop advertisements which can be used to collect your information. 
+There are several browser add-ons you can use to help reduce the information you share. Add-ons such as Privacy Badger from EFF, HTTPS everwhere, and Ad-Block or uBlock Oring are all great ways to start. Privacy Badger automatically detects what information websites are trying to share and blocks it. HTTPS everhwere makes sure that you are always using a secure version of a website if it exists. Ad-Block helps stop advertisements which can be used to collect your information. 
 
 <a href="https://www.eff.org/privacybadger">https://www.eff.org/privacybadger</a>
 
 <a href="https://www.eff.org/https-everywhere">https://www.eff.org/https-everywhere</a>
 
 <a href="https://adblockplus.org/">https://adblockplus.org/</a>
+<a href="https://www.ublock.org/">https://www.ublock.org/</a>
 
 <b> Easy Step 2: Two-Factor Authentication</b>
 
@@ -77,7 +78,7 @@ There are several email services available such as gmail, yahoo, and outlook. Se
 
 Creating your own email server gives you the most access and control over your emails. This requires owning a physical server (even if its a raspberry pi) and can require some time to set up. However, you will know where your emails are stored and provide your own encryption. 
 
-
+<a href="https://protonmail.com/">https://protonmail.com/</a>
 
 
 
