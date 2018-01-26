@@ -7,7 +7,7 @@ How much information can be obtained about you from using your phone or just sim
 
 There are several steps you can take to reduce your digital fingerprint and the amount of information you share. These steps can be divided into different tiers based on their time and difficulty to increase your privacy. 
 
-<h1>Tier 1: Easy ways to protect your privacy</h1>
+<h2>Tier 1: Easy ways to protect your privacy</h2>
 
 This tier is composed of relatively easy things that you can do to increase your privacy without making you change your habits. Remember that any steps you take, no matter how small, can help reduce the amount of information that you share. 
 
