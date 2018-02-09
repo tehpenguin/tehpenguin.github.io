@@ -13,7 +13,7 @@ This tier is composed of relatively easy things that you can do to increase your
 
 <b> Easy Step 1: Browser Add-ons</b>
 
-There are several browser add-ons you can use to help reduce the information you share. Add-ons such as Privacy Badger from EFF, HTTPS everwhere, and Ad-Block or uBlock Oring are all great ways to start. Privacy Badger automatically detects what information websites are trying to share and blocks it. HTTPS everhwere makes sure that you are always using a secure version of a website if it exists. Ad-Block helps stop advertisements which can be used to collect your information. 
+There are several browser add-ons you can use to help reduce the information you share. Add-ons such as Privacy Badger from EFF, HTTPS everwhere, and Ad-Block or uBlock Origin are all great ways to start. Privacy Badger automatically detects what information websites are trying to share and blocks it. HTTPS everhwere makes sure that you are always using a secure version of a website if it exists. Ad-Block helps stop advertisements which can be used to collect your information. 
 
 <a href="https://www.eff.org/privacybadger">https://www.eff.org/privacybadger</a>
 
